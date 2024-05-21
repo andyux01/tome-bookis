@@ -1,7 +1,8 @@
 [build]
 command = """
-chmod +x scripts/symlink.sh \
-&& cd /tome-book
+composer install \
+&& ./vendor/bin/drush tome:install -y \
+&& ./vendor/bin/drush tome:static -l $DEPLOY_PRIME_URL
 """
 
 # Example lines you can add before "tome:static" above if needed:
