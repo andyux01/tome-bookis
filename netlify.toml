@@ -1,6 +1,7 @@
 [build]
 command = """
-cd /tome-book
+chmod +x scripts/symlink.sh \
+&& cd /tome-book
 """
 
 # Example lines you can add before "tome:static" above if needed:
