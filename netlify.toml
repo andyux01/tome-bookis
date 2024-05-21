@@ -13,4 +13,4 @@ composer install \
 publish = "html"
 
 [build.environment]
-PHP_VERSION="8.3.7"
+PHP_VERSION="8"
