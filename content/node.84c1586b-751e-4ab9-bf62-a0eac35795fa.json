@@ -1,0 +1,118 @@
+{
+    "uuid": [
+        {
+            "value": "84c1586b-751e-4ab9-bf62-a0eac35795fa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "blog",
+            "target_type": "node_type",
+            "target_uuid": "ae8ca99e-4d2c-4ff2-a527-90081674883b"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2024-05-21T14:01:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "73661312-427f-4072-8366-d155177782e2"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "73661312-427f-4072-8366-d155177782e2"
+        }
+    ],
+    "title": [
+        {
+            "value": "Belajar Naik Rusa Drupal"
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-05-21T14:02:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2024-05-21T15:32:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/blog\/learning-ride-moose",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<figure class=\"media\"><div data-oembed-url=\"https:\/\/www.youtube.com\/watch?v=oVS9Xyf_7zE\"><div style=\"position: relative; padding-bottom: 100%; height: 0; padding-bottom: 56.2493%;\"><iframe src=\"https:\/\/www.youtube.com\/embed\/oVS9Xyf_7zE\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0;\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"><\/iframe><\/div><\/div><\/figure><p>Bitters brunch selvage celiac migas cred salvia flannel ethical gluten-free pop-up. Succulents photo booth authentic, skateboard tousled vinyl hell of single-origin coffee aesthetic chia farm-to-table gentrify pop-up affogato tattooed. Readymade lo-fi 90's asymmetrical hoodie, yr intelligentsia synth unicorn single-origin coffee edison bulb put a bird on it next level. Neutra godard master cleanse whatever tilde, copper mug before they sold out photo booth shoreditch pinterest next level snackwave sartorial. Cloud bread fanny pack street art fam, 90's flexitarian ugh snackwave biodiesel slow-carb ramps squid venmo.<\/p><pre><code class=\"language-php\">&lt;?php\r\necho \"You can embed code snippets\";\r\nif (TRUE) {\r\n  echo \"They're automatically highlighted!\";\r\n}<\/code><\/pre><h2>Headings automatically have anchor links<\/h2><p>Brunch fashion axe helvetica affogato blue bottle, fixie shoreditch venmo. Post-ironic hexagon truffaut vegan crucifix, waistcoat ugh chillwave flannel. Deep v pop-up iPhone chia, live-edge blog pork belly etsy PBR&amp;B. Vape disrupt air plant XOXO wayfarers coloring book banh mi knausgaard. Roof party fanny pack forage raw denim poutine humblebrag. Semiotics swag tumblr, vaporware truffaut bushwick tote bag poutine fam enamel pin salvia affogato.<\/p>",
+            "format": "rich_text",
+            "summary": ""
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "A moose in the forest.",
+            "title": "",
+            "width": 1920,
+            "height": 1095,
+            "target_type": "file",
+            "target_uuid": "87822dd3-ec48-4983-91ae-07b02cf5b0dd"
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fe9bc290-5d3f-465e-a55d-aa36ac1a329e"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4b90a67b-826d-4bf3-a3ab-3c69280b2a26"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "58f30618-9d00-41e8-a744-e31d44371ef5"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1a94ed1e-d9d2-4d56-bcc1-45c5f94b54ee"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/84c1586b-751e-4ab9-bf62-a0eac35795fa"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/blog\/belajar-naik-rusa-drupal"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
