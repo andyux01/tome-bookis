@@ -1,7 +1,6 @@
 [build]
 command = """
-cd /tome-book \
-&& composer install 
+cd /tome-book
 """
 
 # Example lines you can add before "tome:static" above if needed:
@@ -12,4 +11,4 @@ cd /tome-book \
 publish = "html"
 
 [build.environment]
-PHP_VERSION="8"
+PHP_VERSION="8.3"
