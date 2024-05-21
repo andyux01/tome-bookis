@@ -1,8 +1,7 @@
 [build]
 command = """
-composer install \
-&& ./vendor/bin/drush tome:install -y \
-&& ./vendor/bin/drush tome:static -l $DEPLOY_PRIME_URL
+cd /tome-book \
+&& composer install 
 """
 
 # Example lines you can add before "tome:static" above if needed:
