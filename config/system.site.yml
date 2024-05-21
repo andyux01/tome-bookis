@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: RePADAH4yHzDAKh-gEsDxPFK9hQe32l4p4t8Cqryww8
+langcode: en
+uuid: 63402cc0-0100-4dbf-be79-40bfc402b9b8
+name: 'Situs Buku Keren'
+mail: admin@example.com
+slogan: 'A blogging profile for Tome users'
+page:
+  403: /403
+  404: /404
+  front: /home
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
