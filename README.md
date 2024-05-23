@@ -1,4 +1,4 @@
-# Composer template for Tome projects
+# Composer template for Tome projects dari awal
 
 This project is a great place to start for building brand new Tome projects.
 
