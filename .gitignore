@@ -4,5 +4,4 @@
 /.editorconfig
 /.gitattributes
 /content/
-!/web/sites/default/files/**
 /web
