@@ -1,8 +1,8 @@
 /vendor/
-/web
 /drush
 .idea
 /.editorconfig
 /.gitattributes
 /content/
+/web
 !/web/sites/default/files/**
